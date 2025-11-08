@@ -1,8 +1,4 @@
-# GroupOne-QandA-Site
-
-# Project Brief
-
-# Q&A Site
+# GroupOne-QandA-Site - Project Brief
 
 # Business problem
 It's very common for students (and sometimes mentors!) to have technical issues running their code - errors, unexpected outputs, or refusing to run entirely. The Technical Question Form (see the ⚡️ icon in e.g. #london-class6) has a good structure but asking questions like this in Slack is difficult for a number of reasons, e.g. it doesn't handle (and format) code very well and threads disappear quickly. Stack Overflow has a very mature UI for asking code-related questions, but asking there is a big step; it's not really designed for beginners and the comments don't provide enough space for a complex back-and-forth. We could bridge the gap with a Q&A system of our own, which would hopefully improve the quality of questions, both getting better answers now and preparing students for a better entry to asking on Stack Overflow.
