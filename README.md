@@ -7,6 +7,7 @@ A web application for sharing and managing technical questions and answers.
 - Node.js (v16+ recommended)
 - npm or yarn
 - A browser to run the frontend
+- login page is working 
 
 ## Installation
 
