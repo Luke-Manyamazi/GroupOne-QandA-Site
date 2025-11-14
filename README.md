@@ -24,6 +24,8 @@ yarn install
 ```
 
 ## Running the App
+```bash
 npm start
 # or
 yarn start
+```
